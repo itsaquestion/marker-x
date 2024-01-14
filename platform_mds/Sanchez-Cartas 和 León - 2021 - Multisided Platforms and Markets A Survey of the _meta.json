@@ -1,0 +1,95 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "1. Introduction",
+            1
+        ],
+        [
+            1,
+            "2. De\ufb01nitions and Concepts",
+            2
+        ],
+        [
+            1,
+            "2.1 Typologies of Multisided Models",
+            6
+        ],
+        [
+            1,
+            "2.2 Special Features of Multisided Platforms",
+            7
+        ],
+        [
+            1,
+            "3. Pricing in Multisided Markets",
+            8
+        ],
+        [
+            1,
+            "3.1 Exclusivity in Platforms. Singlehoming, and Multihoming",
+            9
+        ],
+        [
+            1,
+            "3.2 The Role of Information",
+            11
+        ],
+        [
+            1,
+            "3.3 Taxation and Customers\u2019 Behavior",
+            12
+        ],
+        [
+            1,
+            "4. Coordination Problems: Chicken and Egg Problem",
+            13
+        ],
+        [
+            1,
+            "5. Control Rights and Ownership Structure",
+            18
+        ],
+        [
+            1,
+            "6. Market Structure and Competition Policy",
+            20
+        ],
+        [
+            1,
+            "6.1 Entry the Market and Tipping. The Winner Takes All?",
+            20
+        ],
+        [
+            1,
+            "6.2 Competition Policy and Antitrust Literature of Multisided Markets",
+            22
+        ],
+        [
+            1,
+            "7. Future Directions",
+            25
+        ]
+    ],
+    "pages": 36,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 105,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

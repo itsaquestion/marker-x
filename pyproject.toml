@@ -56,3 +56,9 @@ marker_chunk_convert = "chunk_convert:main"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+
+[[tool.poetry.source]]
+name = "proxy"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+priority = "default"

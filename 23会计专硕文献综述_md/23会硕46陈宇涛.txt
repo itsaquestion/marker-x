@@ -1,0 +1,238 @@
+企业环境会计信息披露研究综述
+摘要
+近年来，国家和社会越来越重视环境问题。企业环境会计信息披露作为联系
+社会活动和环境活动的纽带，越来越受到社会各界的重视，成为监督企业环保状
+况的重要渠道。本文在此背景下从国内外研究企业环境会计信息披露的方式、内
+容、影响因素和动因方面入手进行总结，并将国内学者研究环境会计信息披露的
+问题进行归纳，为我国接下来的环境会计信息披露方面的问题提供一些建议。
+关键词：环境会计；信息披露；文献综述
+Summary of research on environmental
+accounting information disclosure of
+enterprises
+ABSTRACT
+In recent years, environmental problems have been paid more and more
+attention by the state and society. As an important link between environmental
+protection and economic activities, corporate environmental information disclosure
+has become an important way to supervise corporate environmental activities and
+control pollution. In this context, this paper summarizes the methods, contents,
+influencing factors and motivations of corporate environmental accounting
+information disclosure at home and abroad, summarizes the problems of domestic
+scholars on environmental accounting information disclosure, and provides some
+suggestions forthenextenvironmental accounting information disclosurein China.
+Key words: environmental accounting; Informationdisclosure; Literature
+review
+引言
+改革开放以来，我国生产力迅速提升，经济社会得到快速发展，城镇化进程
+加快，以四十多年的时间追上了西方国家三百多年的现代化水平。但是环境成为
+经济快速发展背后的牺牲品，水污染、空气污染等一系列环境问题突显，制约着
+社会的高质量发展。环境问题的频发，使得加强环境保护，合理利用自然资源，
+坚持可持续发展战略成为人类共识。在此背景下，人们开始了环境会计的探索，
+企业环境会计信息披露报告作为环境会计的重要组成部分，对企业环境方面的投
+入和收益的各种情况进行有效反映的一种方式。为了让利益相关者对公司的环保
+工作有更好的认识，国家相关部门就环境会计信息披露出台了相关法规制度。十
+九大也紧盯环境问题，明确提出要完善企业强制性环境信息披露制度，从源头上
+控制环境污染。本文对我国企业环境会计信息披露的研究成果进行梳理，主要包
+括环境会计披露的方式、内容、影响因素和动因，最后进行总结和展望，已期能
+够较为清楚、全面的展现目前我国企业环境会计信息披露的研究成果及现状，以
+期为研究人员确定进一步方向提供素材和参考。
+一、环境会计信息披露的方式及内容
+国外对环境会计研究起步较早，主要针对公司实际状况选择不同的披露方式，
+主要的方式有官方报告和独立报告。而国外学者对披露内容方面也做出了不少研
+究，但是没有形成统一的规范，大多数学者认为披露内容应包括污染状况、环境
+诉讼案件、会计法律法规、公司负担的环境义务和责任、环境政策、财务状况等
+方面。
+Geoffrey R.Frost(2007)1通过调查发现企业通常会选择公司年报、官网和独立
+报告三种方式来公开环境会计信息，而且将这三种方式相结合可以取得更好地信
+息披露效果。Goetf Foret(2011)2通过研究几种企业发布信息披露的方式，总结出
+几种披露方式：一是出具独立的环境报告，二是基于网络技术，分散性的发布，
+三是在发表的基础上进行补充，以达到全面信息披露的目的。
+1 GeoffreyR.Frost.TheIntroductionofMandatoryEnvironmentalReportingGuidelinesAustralianEvidence[J].
+Abacus,2007,43(2):190-216.
+2 GoetfForet.Theintroductionofmandatoryenvironmentalreportingguidelines:Australianevidence[J].Abacus.2011(43):166-168.
+JoanneWiseman(1982)3通过运用数据分析方法对大量企业研究分析后指出
+环境会计信息披露应包括公司生产对环境造成的污染状况、由环境污染引发的诉
+讼案件等。Jerry G.Krause(2004)4通过研究，总结出信息披露的内容应包括：环境
+法律法规、公司当前和将来需承担的环境义务与责任和生产造成的环境污染等方
+面。Hong LI(2021)5提出企业应披露企业经营状况以及环保工作后的企业经营状
+况，并进一步分析环境会计披露内容对企业产生的影响。
+国内方面针对环境会计信息披露的方式与国外方面基本相同，主要方式都是
+官方报告和独立报告，但多数学者认为官方报告有其较大的局限性，而独立环境
+会计报告相对于官方报告获得的披露效果更好。对于环境会计信息披露的内容，
+大多数国内学者认为其应包括：环保后续财务状况、管理活动、企业环保目标、
+环境政策、企业环境支出等方面。
+付程(2007)6通过研究发现，将独立环境会计报告与基于事项法的详细环境会
+计信息报告模式结合运用，可以取得更好的披露环境会计信息的效果。黄嫦娇
+(2013)7也认为有两种方式可以选择，第一个是编制独立的会计报告对环境信息进
+行专门的阐述，另一个是添加有关环境的会计科目或者通过附注。另外可以针对
+不同规模大小的企业来讲，选择不同格式不同类别的披露方式。庞汝宁(2021)8通
+过研究指出企业选择的披露方式有限，较少有单独的环境社会责任报告，往往通
+过公司年报或者官网公告进行披露，无法准确判断环境信息真实可靠性。
+孟凡利(1999)9通过研究指出企业应披露：企业环境保护后的经营和财务方面
+产生的影响及程度和环境污染后的治理效果。许家林(2009)10通过研究发现将环
+境管理活动和环保目标加入进披露内容可以取得更好的效果。黄嫦娇(2013)7企主
+张应将企业环境会计信息披露内容分为环境资产、环境负债、环境净资产、环境
+收益、环境成本五部分。刘金彬(2016)11通过研究指出披露会计信息应从环保理
+念、环保方式、环保政策、环保目标、环境业绩等方面出发。
+3 JoanneWiseman.AnEvaluationofEnvironmentalDisclosuresMadeinCorporateAnnualReports[J].AccountingOrganizationsand
+Society,1982,1(7):53-63.
+4 JeffryEverett.Exploring(false)dualismsforenvironmentalaccountingpraxis[J].CriticalPerspectivesonAccounting,2004,15.
+5 HongLi.ResearchonenvironmentalAccountingInformationDisclosureofenergyPollutionIndustry-Caseofthelistedcompaniesin
+coalindustry[J].E3SWebofConferences,2021,237.
+6 付程.事项法与价值法结合:环境会计信息披露新模式[J].山西财经大学学报，2007,(S1):155+162.
+7 黄嫦娇.环境会计信息披露内容与形式的探索[J].财会研究,2013(01):26-28.
+8 庞汝宁.A 药业公司环境会计信息披露问题探究[J].投资与创业,2021,32(15):86-88.
+9 孟凡利.论环境会计信息披露及其相关的理论问题[J].会计研究,1999,(04):17-26.
+10 许家林.环境会计:理论与实务的发展与创新[J].会计研,2009,(10):36-43+94-95.
+11 刘金彬.上市公司环境会计信息披露现状及制约因素分析——基于四川省上市公司的证据［J］.经济体制改革,2016,(04):121-126．
+二、环境会计信息披露的影响因素
+关于环境会计信息披露影响的研究，国外学者的研究时间较早取得的研究成
+果也更为丰富，国内学者对国外研究进行借鉴并展开相关研究，其影响因素有很
+多，主要包括利益相关者给予的压力、企业特征及行业特征、资本成本、股东比
+例、外部监管、法律法规、企业价值等方面。
+NGUYENTKT(2020)12通过研究指出环境会计信息披露主要的影响因素有利
+益相关者给予的压力、企业特征、行业特征等方面。Richardson 和 Welker(2001)13
+通过研究发现，资金成本与企业环境责任信息的披露存在正相关。LinH,ZhangY
+和LiuX(2021)14研究发现董事比例、流通股的比例会对信息披露产生影响。
+王建明(2008)15通过实证研究发现，环境会计信息披露水平除了受行业影响，
+还与外部监管相关，监管力度越大，披露水平越高。蒋麟凤(2009)16通过实证研
+究认为，企业相关的环保法律和法规是环境会计信息披露水平主要的影响因素。
+肖鹏文(2016)17通过实证分析发现公司治理结构与环境会计信息披露存在相关性，
+进一步分析得出环境会计信息披露会受到企业董事会规模、独立董事占比以及股
+权集中度的影响。闫华红和张莹莹(2017)18以化工企业为例，通过实证研究发现
+企业的披露行为受资本成本的影响，当企业面临较高的风险时，往往会主动披露
+环境会计信息以降低风险。范群鹏和程松松(2019)19研究认为外部利益相关者影
+与企业环境会计信息披露可能存在一定关系，进一步对两者之间的关系进行了研
+究，发现外部利益相关者对于环境认知水平越高，企业对于环境会计信息披露这
+方面内容越重视。沈剑飞和李婧婕(2022)20研究指出环境会计信息披露水平与长
+期价值成正相关关系，但企业短期价值成负相关关系，通过进一步研究发现在非
+国有企业，此相关关系会更加显著。
+12 NGUYENTKT.StudyingfactorsaffectingenvironmentalaccountingimplementationinminingenterprisesinVietnam[J].The
+JournalofAsianFinance,Economics,andBusiness,2020,7(5):131-144.
+13 RichardsonA.WelkerM.Socialdisclosurefinancialdisclosureandthecostofequitycapital.AccountingOrganizationsand
+Society,2001.
+14 LinH,ZhangY,LiuX.EmpiricalResearchontheQualityofEnvironmentalAccountingInformationDisclosurebasedonSPSS[J].
+JournalofPhysics:ConferenceSeries,2021,1769(1):012023.
+15 王建明.环境信息披露､行业差异和外部制度压力相关性研究——来自我国沪市上市公司环境信息披露的经验证据[J].会计研
+究,2008(06):54-62+95.
+16 蒋麟凤.企业价值与企业环境会计信息披露相关性研究[J].会计之友(下旬刊),2010,(02):79-82.
+17 肖鹏文.公司治理结构、法律环境与会计信息披露质量相关性研究[J].财会通讯,2016(18):25-29.
+18 闫华红,张莹莹.风险水平对企业自愿性环境信息披露行为的影响——以化工行业为例[J].财会月刊,2017(17):14-19.
+19 范群鹏,程松松.外部利益相关者对环境信息披露的影响研究[J].会计之友,2019,(01):132-137.
+20 沈剑飞,李婧婕.“双碳”目标下企业环境会计信息披露质量对企业价值的影响研究——基于电力企业实证分析[J].武汉金融
+,2022(04):55-63.
+三、环境会计信息披露的动因
+关于环境会计信息披露的动因方面，国外学者认为其动因有很多，主要从媒
+体给予压力，企业所处行业、企业形象、利益相关者等方面进行探索。而国内学
+者也对国外学者研究进行借鉴，认为其动因主要包括政府政府压力及其他外部压
+力、利益相关者、法律法规、企业形象等方面。
+0'Donovan(2002)21通过实证研究发现，媒体和社会团体的压力会影响环境会
+计信息披露，并进一步分析环境敏感性的一些行业，发现所处该行业的企业会相
+应的对环境信息披露年报进行进一步的强化。NolaBuhr(2002)22认为企业外部形
+象会影响环境会计信息披露，影响路径为企业的外部形象会对企业的产品竞争造
+成影响，所以企业需要保持自身良好的外部形象，从而保证产品处于有利的竞争
+地位，需要对外进行环境会计信息披露。另外其进一步指出外部利益相关者以及
+环保组织等因素也会给企业带来压力，企业只能选择对外披露环境会计信息。
+王立彦和尹春艳等(1998)23通过开展调查发现关于企业披露环境会计信息的
+动因当中，政府方面的压力是作为其最主要的推动因素，这些压力包括环境法规
+及行业政策。吕露(2001)24研究发现环境会计信息披露的动因主要包括环境法律
+法规和利益相关者。肖淑芳和胡伟(2004)25认为环境保护组织和公众会对企业提
+出披露要求，给予企业披露信息压力。王芳和鄢志娟(2014)26提出：内外部因素
+都会对环境会计信息披露产生影响，外部的影响主要有投资者、债权人等利益相
+关者，企业需要对其负责，将环境会计信息对外展示；内部的影响主要是因为企
+业为了巩固自身正面形象，而需要对外展现其在环保方面所做的工作和成果。
+四、环境会计信息披露研究的总结、问题与建议
+1.综上所述，国内外学术界对企业环境会计信息披露的研究已经比较完整，
+主要集中在信息披露的方式、内容、影响因素和动因方面。由于国外学者对环境
+会计的研究开始较早，已经取得了阶段性成果，披露内容和披露形式上都有具体
+21 O’Donovan.EnvironmentalDisclosuresintheAnnualReport-ExtendingtheApplicabilityandPredictivePowerofLegitimacy
+TheoryAccounting.AuditingandAccountabilityJournal,2002.
+22 NolaBuhr.Astructurationviewontheinitiationofenvironmentalreports[J].CriticalPerspectivesonAccounting,2002(1):17-20.
+23 王立彦,尹春艳,李维刚.我国企业环境会计实务调查分析[J].会计研究,1998,(08):19-25.
+24 吕露.企业环境会计信息披露问题研究[D].厦门大学,2001.
+25 肖淑芳,胡伟.我国企业环境信息披露体系的建设[J].会计研究,2005,(03):47-52+94.
+26 王芳,鄢志娟.中日环境会计信息披露比较[J].社会科学家,2014,(09):73-77.
+规范，并且形成了较为完善的研究体系及与之相关的法律法规体系。而国内学者
+在前人的基础上结合我国实际情况，对相关理论和特定行业的披露现状进行了研
+究，取得了一定的成果。近年来，我国的学者们开始广泛运用统计和实证研究方
+法去进行环境会计信息披露的研究，尤其侧重在信息披露的影响因素和动因上，
+有效地弥补了此领域研究的空白。同时，他们也借鉴了国外的研究成果，并结合
+我国的实际情况，对我国当前环境会计信息披露存在的问题进行了深入的剖析。
+目前来说，我国的环境会计披露制度体系相对于国外仍有很大的改进空间，具体
+表现在环保法律法规体系建设和环境管理的体系构建等方面的完善程度还不够，
+具体来说，在环保法律法规体系建设、环境体系构建等方面都不够完善，付媛媛
+(2019)27通过中日两国的对比也指出，我国的环境会计信息披露与日本存在较大
+差距，在环保法律法规体系建设、环境问题认识和环境管理体系构建等方面存在
+一些问题。除了法律和制度体系方面的问题，我国环境会计信息披露还存在监管
+不足、认知水平不足的问题。主要体现为：信息披露的内容缺乏可比性、形式不
+规范、内容可靠性和相关性差；企业环境会计信息披露认识水平较低，没有意识
+到环境会计信息披露的重要性，自愿性进行披露的企业很少。为了解决我国环境
+会计信息披露存在的一些问题，多数国内学者指出我国应从多方面入手，解决我
+国环境会计信息披露存在的一些问题。例如黄艳(2022)28指出国家可以从监督方
+式、法律、准则等多个方面对环境会计信息披露制度进行构建，通过自上而下的
+范式管理，大力促进我国高质量发展。总的来说，我们需要从三个层面完善我国
+现有的环境会计披露制度。首先是在法律层面，我们应进一步完善法律法规，给
+企业设立明确的环境会计信息披露标准。在政府层面，我们应对企业会计信息披
+露的内容与形式进行规范，并确保其内容具备可比性和相关性，形式保持规范性
+与严谨性。在企业层面，我们应提升其对环境会计信息披露认知水平，同时也应
+注重跟踪并落实国家发布的环保政策到企业运营中。通过三个层面的举措使我国
+的环境会计信息披露制度更加完善，更好地为社会公众披露环境会计信息，也能
+督促企业绿色发展。
+27 付媛媛.中日企业环境会计信息披露比较与借鉴[J].财会通讯,2019(22):123-126.
+28 黄艳.基于低碳经济的中国环境会计信息披露探究——评《企业环境会计信息披露研究》[J].中国科技论文,2022,17(06):724.
+参考文献
+[1]Geoffrey R.Frost. The Introduction ofMandatory Environmental Reporting
+Guidelines Australian Evidence[J].Abacus,2007,43(2):190-216.
+[2]GoetfForet. The introduction ofmandatory environmental reporting guidelines:
+Australian evidence[J].Abacus.2011(43):166-168.
+[3]JoanneWiseman. An Evaluation ofEnvironmental Disclosures Made in Corporate
+Annual Reports[J]. Accounting Organizations and Society, 1982,1(7): 53-63.
+[4]Jeffry Everett. Exploring (false) dualismsfor environmental accounting praxis [J].
+Critical Perspectives onAccounting,2004,15.
+[5]Hong Li.Research onenvironmental Accounting Information Disclosureof energy
+Pollution Industry -Caseof thelisted companies in coal industry[J]. E3S Webof
+Conferences,2021,237.
+[6]付程.事项法与价值法结合:环境会计信息披露新模式[J].山西财经大学学报，
+2007,(S1):155+162.
+[7]庞汝宁.A药业公司环境会计信息披露问题探究[J].投资与创业，
+2021,32(15):86-88.
+[8]孟凡利.论环境会计信息披露及其相关的理论问题[J].会计研究
+,1999,(04):17-26.
+[9]许家林.环境会计:理论与实务的发展与创新[J].会计研,2009,(10):36-43+94-95.
+[10]黄嫦娇.环境会计信息披露内容与形式的探索[J].财会研究,2013(01):26-28.
+[11]刘金彬.上市公司环境会计信息披露现状及制约因素分析——基于四川省上
+市公司的证据［J］.经济体制改革,2016,(04):121-126．
+[12]Lin H, Zhang Y, Liu X. Empirical Research ontheQuality ofEnvironmental
+Accounting Information Disclosure based onSPSS[J]. Journal ofPhysics: Conference
+Series,2021,1769(1):012023.
+[13]NGUYEN T K T.Studying factors affecting environmental accounting
+implementationin mining enterprises in Vietnam[J].The Journal ofAsian Finance,
+Economics, andBusiness, 2020,7(5): 131-144.
+[14]Richardson A.WelkerM.Social disclosurefinancial disclosureand thecost of
+equity capital. Accounting Organizations andSociety,2001.
+[15]王建明.环境信息披露､行业差异和外部制度压力相关性研究——来自我国沪
+市上市公司环境信息披露的经验证据[J].会计研究,2008(06):54-62+95.
+[16]蒋麟凤.企业价值与企业环境会计信息披露相关性研究[J].会计之友(下旬刊
+),2010,(02):79-82.
+[17]肖鹏文.公司治理结构、法律环境与会计信息披露质量相关性研究[J].财会通
+讯,2016(18):25-29.
+[18]闫华红,张莹莹.风险水平对企业自愿性环境信息披露行为的影响——以化工
+行业为例[J].财会月刊,2017(17):14-19.
+[19]范群鹏,程松松.外部利益相关者对环境信息披露的影响研究[J].会计之友
+,2019,(01):132-137.
+[20]沈剑飞,李婧婕.“双碳”目标下企业环境会计信息披露质量对企业价值的影响
+研究——基于电力企业实证分析[J].武汉金融,2022(04):55-63.
+[21]O’Donovan.Environmental Disclosures in theAnnual Report -Extending the
+Applicabilityand PredictivePower ofLegitimacy Theory Accounting .Auditingand
+AccountabilityJournal,2002.
+[22]NolaBuhr.A structuration viewonthe initiation ofenvironmental
+reports[J].Critical Perspectives onAccounting,2002(1): 17-20.
+[23]王立彦,尹春艳,李维刚.我国企业环境会计实务调查分析[J].会计研究
+,1998,(08):19-25.
+[24]吕露.企业环境会计信息披露问题研究[D].厦门大学,2001.
+[25]肖淑芳,胡伟.我国企业环境信息披露体系的建设[J].会计研究
+,2005,(03):47-52+94.
+[26]王芳,鄢志娟.中日环境会计信息披露比较[J].社会科学家,2014,(09):73-77.
+[27]付媛媛.中日企业环境会计信息披露比较与借鉴[J].财会通讯
+,2019(22):123-126.
+[28]黄艳.基于低碳经济的中国环境会计信息披露探究——评《企业环境会计信息
+披露研究》[J].中国科技论文,2022,17(06):724.

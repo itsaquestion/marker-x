@@ -1,0 +1,165 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "Introduction",
+            1
+        ],
+        [
+            1,
+            "Related work on modeling and quantifying the sharing economy",
+            5
+        ],
+        [
+            1,
+            "Factors explaining the rise of peer-to-peer rental markets",
+            6
+        ],
+        [
+            1,
+            "Model",
+            9
+        ],
+        [
+            2,
+            "Consumer decision about ownership based on expected usage",
+            9
+        ],
+        [
+            2,
+            "Three consumption possibilities with two consumer types but no rentals",
+            10
+        ],
+        [
+            2,
+            "Short-run P2P rental market equilibrium",
+            11
+        ],
+        [
+            2,
+            "Social surplus in the short-run peer-to-peer rental market",
+            13
+        ],
+        [
+            2,
+            "Bringing-to-market costs: labor, capital depreciation, and transaction costs",
+            14
+        ],
+        [
+            2,
+            "Bringing-to-market costs and existence of the peer-to-peer rental market",
+            15
+        ],
+        [
+            2,
+            "Revised ownership without bringing-to-market costs",
+            15
+        ],
+        [
+            2,
+            "Product market demand in the long-run P2P rental market equilibrium",
+            17
+        ],
+        [
+            2,
+            "Long-run P2P rental market consumer surplus when both consumer types use the good",
+            18
+        ],
+        [
+            2,
+            "Long-run P2P rental market equilibrium with bringing-to-market costs",
+            18
+        ],
+        [
+            2,
+            "More complex BTM cost structures",
+            19
+        ],
+        [
+            2,
+            "The platform's incentives for reducing costs",
+            20
+        ],
+        [
+            2,
+            "Competition with conventional rental firms",
+            21
+        ],
+        [
+            1,
+            "The attributes of goods and the feasibility of renting",
+            21
+        ],
+        [
+            2,
+            "Main empirical results",
+            23
+        ],
+        [
+            2,
+            "Design and administration of the survey",
+            24
+        ],
+        [
+            2,
+            "Ownership by an individual's planned usage",
+            24
+        ],
+        [
+            2,
+            "Self-reported reasons for non-ownership",
+            26
+        ],
+        [
+            2,
+            "Aggregate usage chunkiness and predictability",
+            27
+        ],
+        [
+            2,
+            "Predictability, chunkiness, and ownership",
+            29
+        ],
+        [
+            2,
+            "Aggregate ownership and renting patterns at the level of the good",
+            30
+        ],
+        [
+            1,
+            "Conclusion",
+            32
+        ],
+        [
+            1,
+            "Survey Questions ",
+            37
+        ],
+        [
+            1,
+            "Additional empirical results",
+            40
+        ]
+    ],
+    "pages": 42,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 31,
+            "unsuccessful_ocr": 0,
+            "equations": 31
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
